@@ -2,13 +2,12 @@
 
 A production-ready Spring Boot application to manage Initial Public Offerings (IPOs) with REST APIs and a simple Bootstrap/Thymeleaf UI.
 
-## Demo (add your GIF here)
+## Demo GIF
 
-Place your demo GIF at `docs/demo.gif` and it will render below:
+
 
 ![Application Demo](docs/demo.gif)
 
-> Tip: Create the `docs/` folder and drop your GIF there. Update the path if you prefer a different location.
 
 ## Architecture
 - Backend: Spring Boot (REST, JPA/Hibernate, Validation, Thymeleaf)
